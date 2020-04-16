@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+	background-color:lightblue;
+}
+p.boldBorder{
+	border:10px solid black;
+	background-color:green;
+}
+p.lessBorder{
+	background-color:lightgreen;
+	border:5px solid black;
+}
+p.thinBorder{
+	background-color:lightpink;
+	border:2px solid black;
+}

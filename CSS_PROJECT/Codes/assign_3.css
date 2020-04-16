@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body{
+	
+	background-color:lightblue;
+}
+p.uppercase{
+	text-transform:uppercase;
+}
+p.lowercase{
+	text-transform:lowercase;
+}
+p.normal{
+	text-transform:normal;
+}

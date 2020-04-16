@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+body{
+	text-align:center;
+	backgroung-color:lightblue;
+}
+a{
+	
+	color:green;
+}
+a:hover{
+	color:red;
+}
